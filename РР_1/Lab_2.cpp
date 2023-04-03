@@ -15,5 +15,6 @@ int main()
         cout << "Точка не принадлежит области";
     else
         cout << "Точка лежит на границе области";
+    cout << "REEEEEEEEEEEEEEEEEEEEEEEEEEDACT";
 }
 
